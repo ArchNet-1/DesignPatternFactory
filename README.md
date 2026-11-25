@@ -32,4 +32,4 @@ Import the **Weapon Factory** sample for a full example.
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).

@@ -4,6 +4,7 @@
   "displayName": "ArchNet - Factory Pattern",
   "description": "Creates objects from a key without the calling code knowing their concrete type: Factory<TKey, TProduct>.",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#DesignPatternFactory",
   "changelogUrl": "https://github.com/ArchNet-1/DesignPatternFactory/blob/master/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/DesignPatternFactory/blob/master/LICENSE.md",
